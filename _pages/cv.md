@@ -11,22 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Fordham University, 2016
+* M.S. in Data Analytics, Fordham University, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Computational Research Intern
+  * Fordham University
+  * Full-Stack development work on DARPA-SD2E - ESCALATE: Pseudo-Random sampling of chemical experiments and automated materials science research platform. 
+  * Integrated machine learning models on ESCALATE to aid the materials discovery process and predict chemical-reaction outcomes in perovskites.
+  * Supervisor: Dr. Joshua Scrier
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2018: Machine Learning Engineer Intern
+  * Instrumental Inc.
+  * Created and adapted metrics around anomaly detection in image processing 
+  * Researched machine learning algorithm improvements by finding, reading, and implementing academic papers 
+  * Researched, found, tested, and integrated a new algorithm into Instrumental’s ML Stack that improved accuracy 
+  * Supervisor: Simon Kozlov
+
+   
+
 Skills
 ======
 * Skill 1
