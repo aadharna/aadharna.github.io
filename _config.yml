@@ -9,8 +9,8 @@
 locale                   : "New York, New York"
 title                    : "Aaron Dharna"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Aaron Dharna"
+description              : &description "Master's Student and Machine Learning Engineer"
 url                      : https://aadharna.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aadharna.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Aaron Dharna"
   avatar           : "profile.jpg"
   bio              : "Interested in Optimal Control and the intersection of games and machine learning."
   location         : "New York, New York"

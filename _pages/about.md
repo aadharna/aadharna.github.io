@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is Aaron Dharna's Personal Site -- built from academicpages.github.io. 
+Hello, World. 
 
-+Lorem ipsum
+I am currently a Master's Student at Fordham University studying Machine Learning. Prior to this, I studied Mathematics at Fordham University for my undergraduate, worked at my old high school, and worked at two tech start-ups ([nTopology](https://ntopology.com/), [Instrumental](https://www.instrumental.com/)). 
+
+
