@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Fordham University, 2016
-* M.S. in Data Analytics, Fordham University, 2020
+* M.S. in Data Analytics, Fordham University, 2018-2020
+  * Visiting Student, NYU-Tandon 2019-2020
+* B.S. in Mathematics, Fordham Univeristy, 2012-2016
 
 Work experience
 ======
