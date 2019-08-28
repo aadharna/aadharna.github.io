@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aaron Dharna"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Interested in Optimal Control and the intersection of games and machine learning."
   location         : "New York, New York"
   employer         :
