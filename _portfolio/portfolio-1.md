@@ -4,6 +4,14 @@ excerpt: "Code for the purpose of learning reinforcement learning using OpenAI G
 collection: portfolio
 ---
 
+Links: 
+
+  [Repo Link](https://github.com/aadharna/RL2019)
+
+  [Imitation Learning Introduction](https://github.com/aadharna/RL2019/blob/master/Imitation_Learning.pdf)
+
+----  
+
 # RL2019
 Fordham RL Tutorial 2019 
 
