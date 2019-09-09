@@ -18,6 +18,12 @@ Education
 Work experience
 ======
 * Fordham University
+  * Fall 2019: Teaching Assistant -- Natural Language Processing
+	  * Help prepare lecture
+	  * Grade student homework and provide feedback and code-reviews
+	  * Host office hours to answer questions and facilitate learning
+
+* Fordham University
   * Summer 2019: Computational Research Intern
 	  * Full-Stack development work on DARPA-SD2E - ESCALATE: Pseudo-Random sampling of chemical experiments and automated materials science research platform. 
 	  * Integrated machine learning models on ESCALATE to aid the materials discovery process and predict chemical-reaction outcomes in perovskites.
