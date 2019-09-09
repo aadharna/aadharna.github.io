@@ -4,14 +4,6 @@ excerpt: "Code for the purpose of learning reinforcement learning using OpenAI G
 collection: portfolio
 ---
 
-Links: 
-
-  [Repo Link](https://github.com/aadharna/RL2019)
-
-  [Imitation Learning Introduction](https://github.com/aadharna/RL2019/blob/master/Imitation_Learning.pdf)
-
-----  
-
 # RL2019
 Fordham RL Tutorial 2019 
 
@@ -21,6 +13,14 @@ later has come.
 
 
 > Reinforcement learning is a powerful paradigm by which artificially intelligent agents can learn to make good decisions. RL is relevant to an enormous range of tasks, including robotics, game playing, consumer modeling and healthcare. This class will provide a solid introduction to the field of reinforcement learning and students will learn about the core challenges and approaches, including generalization and exploration. Students will become well versed in key ideas and techniques for RL. The class will be project oriented. Assignments will include the basics of reinforcement learning as well as imitation learning and deep reinforcement learning. In addition, students will advance their understanding and the field of RL through an open-ended class project.
+
+
+Links: 
+
+  [Repo Link](https://github.com/aadharna/RL2019)
+
+  [Imitation Learning Introduction](https://github.com/aadharna/RL2019/blob/master/Imitation_Learning.pdf) 
+
 
 
  ----  
