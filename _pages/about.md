@@ -13,7 +13,7 @@ Hello, World.
 I am currently a Master's Student at Fordham University studying Machine Learning. 
 
 Currently, I: 
-* Am a Visiting Student at NYU-Tandon working on my Master's Thesis with Dr. Damian Lyons (Fordham) and Dr. Julian Togelius (NYU) on [Competitive Co-evolution of agents and environments (via mechanics) in GVG-AI](https://github.com/aadharna/UntouchableThunder) 
+* Am a Visiting Student at NYU-Tandon working on my Master's Thesis with Dr. Damian Lyons (Fordham) and Dr. Julian Togelius (NYU) on [Competitive Co-evolution of agents and environments in GVG-AI](https://github.com/aadharna/UntouchableThunder) 
 * Am working as a Research Intern for Dr. Joshua Scrier
 * Am TA-ing a graduate course on Natural Language Processing during the Fall 2019 Semester.
 
