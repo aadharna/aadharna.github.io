@@ -1,7 +1,6 @@
 ---
 title: "Inverse Reinforcement Learning: An Introduction"
 excerpt: "Notes derived from Sergey Levine's Deep RL course at Berkeley"
-
 collection: portfolio
 ---
 
