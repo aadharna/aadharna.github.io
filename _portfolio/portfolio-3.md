@@ -1,5 +1,4 @@
--
--
+---
 title: "Inverse Reinforcement Learning: An Introduction"
 excerpt: "Notes derived from Sergey Levine's Deep RL course at Berkeley"
 
@@ -12,9 +11,8 @@ Links:
 
   [Imitation Learning Introduction](https://github.com/aadharna/RL2019/blob/master/Imitation_Learning.pdf) 
 
+----  
 
-
- ----  
 ```
 Imitation Learning
   - Behaviour Cloning
