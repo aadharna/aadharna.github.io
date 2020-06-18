@@ -1,7 +1,7 @@
 ---
 title: "Can machines “learn” halide #perovskite crystal formation without accurate physicochemical features?"
 collection: publications
-permalink: /publications/perovskite
+permalink: /publication/perovskite
 venue: "ACS"
 excerpt: 'This paper is about using machine learning to learn perovskite reaching when ones model of the chemical world is not accurate'
 date: 2020-15-06
