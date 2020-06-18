@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/perovskite
 venue: "ACS"
 excerpt: 'This paper is about using machine learning to learn perovskite reaching when ones model of the chemical world is not accurate'
-date: 2020-15-06
+date: 2020-06-15 11:30:00 +0800
 paperurl: 'http://aadharna.github.io/files/perovskite.pdf'
 citation: 'see below'
 ---
