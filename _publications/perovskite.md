@@ -13,6 +13,8 @@ citation: 'see below'
 
 This paper is about using machine learning to learn perovskite reactions when ones model of the world is not accurate.
 
+[Download paper here](http://aadharna.github.io/files/perovskite.pdf)
+
 Citation  and link inside post. 
 
 ```
