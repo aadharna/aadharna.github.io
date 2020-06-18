@@ -12,7 +12,7 @@ Hello, World.
 
 I am an incoming Ph.D. student at New Jersey Institute of Technology studying under Dr. Amy Hoover. During my MS I have also been researching in the Game Innovation Lab at New York Univeristy Tandon School of Engineering under Dr. Julian Togelius. 
 
-My M.S. thesis is about Open-Ended evolution via coevolving game levels and game-playing agents for GVG-AI. [Co-evolution of agents and environments in GVG-AI](https://github.com/aadharna/UntouchableThunder) The created system is called PINSKY -- POET Inspired Neuroevolutionary System for KreativiY in Games.  
+My M.S. thesis is about Open-Ended evolution via [Co-evolution of agents and environments in GVG-AI](https://github.com/aadharna/UntouchableThunder) The created system is called PINSKY -- POET Inspired Neuroevolutionary System for KreativiY in Games.  
 
 Previously, I was currently a Master's Student at Fordham University studying Machine Learning and a machine learning engineer intern at Instrumental Inc. 
 
