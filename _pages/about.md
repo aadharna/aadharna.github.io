@@ -10,14 +10,17 @@ redirect_from:
 
 Hello, World. 
 
-I am currently a Master's Student at Fordham University studying Machine Learning. 
+I am an incoming Ph.D. student at New Jersey Institute of Technology studying under Dr. Amy Hoover. During my MS I have also been researching in the Game Innovation Lab at New York Univeristy Tandon School of Engineering under Dr. Julian Togelius. 
 
-Currently, I: 
-* Am a Visiting Student at NYU-Tandon working on my Master's Thesis with Dr. Damian Lyons (Fordham) and Dr. Julian Togelius (NYU) on [Competitive Co-evolution of agents and environments in GVG-AI](https://github.com/aadharna/UntouchableThunder) 
-* Am working as a Research Intern for Dr. Joshua Scrier
-* Am TA-ing a graduate course on Natural Language Processing during the Fall 2019 Semester.
+My M.S. thesis is about Open-Ended evolution via coevolving game levels and game-playing agents for GVG-AI. [Co-evolution of agents and environments in GVG-AI](https://github.com/aadharna/UntouchableThunder) The created system is called PINSKY -- POET Inspired Neuroevolutionary System for KreativiY in Games.  
 
-Prior to this, I:
+Previously, I was currently a Master's Student at Fordham University studying Machine Learning and a machine learning engineer intern at Instrumental Inc. 
+
+* Am working as a Research Intern for Dr. Joshua Scrier on the DARPA-SD2E project.
+  * You can find this work under my Publication's tab.
+* I TA'd a graduate course on Natural Language Processing during the Fall 2019 Semester.
+
+Prior to my MS, I:
 
 * Worked at [Instrumental](https://www.instrumental.com/)
   * Machine Learning Engineer Intern -- Summer 2018
