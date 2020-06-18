@@ -1,4 +1,4 @@
-----
+---
 title: "Can machines “learn” halide #perovskite crystal formation without accurate physicochemical features?"
 collection: publications
 permalink: /publications/perovskite
