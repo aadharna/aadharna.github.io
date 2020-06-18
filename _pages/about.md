@@ -14,7 +14,7 @@ I am an incoming Ph.D. student at New Jersey Institute of Technology studying un
 
 My M.S. thesis is about Open-Ended evolution via [Co-evolution of agents and environments in GVG-AI](https://github.com/aadharna/UntouchableThunder) The created system is called PINSKY -- POET Inspired Neuroevolutionary System for KreativiY in Games.  
 
-Previously, I was currently a Master's Student at Fordham University studying Machine Learning and a machine learning engineer intern at Instrumental Inc. 
+Previously, I was a Master's Student at Fordham University studying Machine Learning and a machine learning engineer intern at Instrumental Inc. 
 
 * Am working as a Research Intern for Dr. Joshua Scrier on the DARPA-SD2E project.
   * You can find this work under my Publication's tab.
