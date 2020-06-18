@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Computer Science, New Jersey Institute of Technology, 2020 - ?
 * M.S. in Data Analytics, Fordham University, 2018-2020
     * Visiting Student, NYU-Tandon 2019-2020
 * B.S. in Mathematics, Fordham Univeristy, 2012-2016
@@ -18,7 +19,7 @@ Education
 Work experience
 ======
 * Fordham University
-  * Fall 2019: Teaching Assistant -- Natural Language Processing
+  * 2019-2020: Teaching Assistant -- Natural Language Processing
 	  * Help prepare lecture
 	  * Grade student homework and provide feedback and code-reviews
 	  * Host office hours to answer questions and facilitate learning
