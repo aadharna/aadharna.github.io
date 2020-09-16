@@ -2,7 +2,7 @@
 title: "Co-generation of game levels and game-playing agents"
 collection: publications
 permalink: /publication/PINSKY
-venue: "AAAI"
+venue: "AIIDE 2020"
 excerpt: 'This paper is about using coevolution of game-levels and game-playing agents in GVGAI'
 date: 2020-07-15 11:30:00 +0800
 paperurl: 'http://aadharna.github.io/files/PINSKY.pdf'
