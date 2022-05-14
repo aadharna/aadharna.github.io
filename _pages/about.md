@@ -10,13 +10,15 @@ redirect_from:
 
 Hello, World. 
 
-I am an incoming Ph.D. student at New Jersey Institute of Technology studying under Dr. Amy Hoover. During my MS I have also been researching in the Game Innovation Lab at New York Univeristy Tandon School of Engineering under Dr. Julian Togelius. 
+I am an incoming Ph.D. student at the University of British Columbia studying under Dr. Jeff Clune!! I study meta-learning and reinforcement learning. And math.
+
+During my MS I have also been researching in the Game Innovation Lab at New York Univeristy Tandon School of Engineering under Dr. Julian Togelius. 
 
 My M.S. thesis is about Open-Ended evolution via [Co-evolution of agents and environments in GVG-AI](https://github.com/aadharna/UntouchableThunder) The created system is called PINSKY -- POET Inspired Neuroevolutionary System for KreativiY in Games.  
 
-Previously, I was a Master's Student at Fordham University studying Machine Learning and a machine learning engineer intern at Instrumental Inc. 
+Previously, I started my PhD at the New Jersey Institute of Technology under Dr. Amy Hoover, was a Master's Student at Fordham University studying Machine Learning and a machine learning engineer intern at Instrumental Inc. 
 
-* Am working as a Research Intern for Dr. Joshua Scrier on the DARPA-SD2E project.
+* I worked Research Intern for Dr. Joshua Scrier on the DARPA-SD2E project.
   * You can find this work under my Publication's tab.
 * I TA'd a graduate course on Natural Language Processing during the Fall 2019 Semester.
 
