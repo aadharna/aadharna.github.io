@@ -18,5 +18,22 @@ The main question addressed by this paper is how the open-ended learning actuall
 Citation  and link inside post. 
 
 ```
-coming soon
+@misc{https://doi.org/10.48550/arxiv.2203.10941,
+  doi = {10.48550/ARXIV.2203.10941},
+  
+  url = {https://arxiv.org/abs/2203.10941},
+  
+  author = {Dharna, Aaron and Hoover, Amy K and Togelius, Julian and Soros, L. B.},
+  
+  keywords = {Artificial Intelligence (cs.AI), Machine Learning (cs.LG), Neural and Evolutionary Computing (cs.NE), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Transfer Dynamics in Emergent Evolutionary Curricula},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Zero v1.0 Universal}
+}
+
 ```

@@ -11,13 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, New Jersey Institute of Technology, 2020 - ?
+* Ph.D. in Computer Science, University of British Columbia, 2022 - ?
+  * transferred from NJIT to UBC in 2022
+* [Unfinished] Ph.D. in Computer Science, New Jersey Institute of Technology, 2020 - 2022
 * M.S. in Data Analytics, Fordham University, 2018-2020
-    * Visiting Student, NYU-Tandon 2019-2020
+    * Visiting Student, NYU-Tandon 2019-2022
 * B.S. in Mathematics, Fordham Univeristy, 2012-2016
 
 Work experience
 ======
+* Geometric Data Analytics
+  * Summer 2022: Research Scientist Intern
+      * Multi-agent reinforcment learning research
+
+* New York University
+  * 2019 - 2022: Guest machine learning reseacher at Game Innovation Lab
+      * researched open-ended learning and games
+
+
 * Fordham University
   * 2019-2020: Teaching Assistant -- Natural Language Processing
 	  * Help prepare lecture
@@ -49,5 +60,3 @@ Work experience
 	  * Refer to the lesson plan left by lead teacher and work with students to help solidify new concepts
 	  * Manage classroom order by encouraging task adherence and appropriate classroom behavior 
 
-Projects
-======
