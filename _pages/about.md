@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, World. 
 
-I am an incoming Ph.D. student at the University of British Columbia studying under Dr. Jeff Clune!! I study meta-learning and reinforcement learning. And math.
+I am a Ph.D. student at the University of British Columbia studying under Dr. Jeff Clune!! I study meta-learning, reinforcement learning, and open-endedness. And math.
 
 During my MS I have also been researching in the Game Innovation Lab at New York Univeristy Tandon School of Engineering under Dr. Julian Togelius. 
 
